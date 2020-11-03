@@ -1,6 +1,6 @@
 # RE-STORM
 
-RE-STORM: **Re**quirement**s** Trade-offs for self adaptation using Partially **O**bse**r**vable **M**arkov Decision Processes
+**RE-STORM**: **Re**quirement**s** Trade-offs for self adaptation using Partially **O**bse**r**vable **M**arkov Decision Processes
 (POMDPs), is a technique to support reasoning and decision making based on the trade-offs of NFRs by Self Adaptive Systems (SASs), and underpinned by POMDPs.
 
 ## Acknowledgements 
