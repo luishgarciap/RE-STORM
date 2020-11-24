@@ -26,17 +26,17 @@ The log files used to generate the results depicted in [1] have been organized i
 Each folder contains the .json files utilized to generate the plots presented in [1]. Specifically:
 
 
-* Figure 7 and Figure 8, corresponds to log files:
+* Figure 7 and Figure 8, correspond to the log files:
 
 /DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json and
 
 /DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json
 
-* Figures 7 and 8, corresponds to log files:
+* Figure 9 and Figure 10, correspond to the log files:
 
-/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json and
+/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json and
 
-/DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json
+/DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json
 
 
 
