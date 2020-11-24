@@ -25,21 +25,18 @@ The log files used to generate the results depicted in [1] have been organized i
 
 ## Logs for the RDM SAS under different dynamic contexts
 
-* Figures 7 and 8 correspond to the log files:
+Figures 7 and 8 correspond to the log files:
 <ul>
 <li>/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json </li>
 <li>/DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json</li>
 </ul>
 
 
-
-
-
-* Figures 9 and 10, correspond to the log files:
-
-/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json
-
-/DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json
+Figures 9 and 10, correspond to the log files:
+<ul>
+<li>/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json</li>
+<li>/DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json</li>
+</ul>
 
 
 * Figures 11 and 13, correspond to the log files:
