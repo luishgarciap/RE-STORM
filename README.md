@@ -23,39 +23,37 @@ The log files used to generate the results depicted in [1] have been organized i
 * RDM SAS under other Service Level Agreements (SLAs) (folder OtherSLAs)
 * RDM SAS under stable conditions (folder _StableConditions)
 
-Each folder contains the .json files utilized to generate the plots presented in [1].
-
 ## logs for the RDM SAS under different dynamic contexts
 
-* Figure 7 and Figure 8, correspond to the log files:
+* Figures 7 and 8 correspond to the log files:
 
 /DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json and
 
 /DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json
 
 
-* Figure 9 and Figure 10, correspond to the log files:
+* Figures 9 and 10, correspond to the log files:
 
 /DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json and
 
 /DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json
 
 
-* Figure 11 and Figure 13, correspond to the log files:
+* Figures 11 and 13, correspond to the log files:
 
 /DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json and
 
 /DynamicContext_DC2/_logi_c2_s10_YesDYesJ.json
 
 
-* Figure 12 and Figure 14, correspond to the log files:
+* Figures 12 and 14, correspond to the log files:
 
 /DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json and
 
 /DynamicContext_DC4/_logi_c4_s10_YesDYesJ.json
 
 
-* Figure 15 and Figure 16, correspond to the log files:
+* Figures 15 and 16, correspond to the log files:
 
 /DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json and
 
