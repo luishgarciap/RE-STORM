@@ -27,35 +27,35 @@ The log files used to generate the results depicted in [1] have been organized i
 
 * Figures 7 and 8 correspond to the log files:
 
-/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json and
+/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json 
 
 /DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json
 
 
 * Figures 9 and 10, correspond to the log files:
 
-/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json and
+/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json
 
 /DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json
 
 
 * Figures 11 and 13, correspond to the log files:
 
-/DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json and
+/DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json
 
 /DynamicContext_DC2/_logi_c2_s10_YesDYesJ.json
 
 
 * Figures 12 and 14, correspond to the log files:
 
-/DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json and
+/DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json
 
 /DynamicContext_DC4/_logi_c4_s10_YesDYesJ.json
 
 
 * Figures 15 and 16, correspond to the log files:
 
-/DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json and
+/DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json
 
 /DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json 
 
@@ -63,7 +63,7 @@ The log files used to generate the results depicted in [1] have been organized i
 
 * Figures 17 and 18, correspond to the log files:
 
-/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json and 
+/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json 
 
 /DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json
 
@@ -79,7 +79,7 @@ The log files used to generate the results depicted in [1] have been organized i
 /OtherSLAs/logi_s100_(0.8_0.99_0.85).json 
 
 
-## Logs for the RDM SAS under stable conditions
+## Log for the RDM SAS under stable conditions
 
 * Figures 5 and 6 correspond to the log file:
 
