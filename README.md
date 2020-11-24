@@ -19,12 +19,13 @@ Self-adaptive  and  autonomous  system  (SAS)  is  a  system  that adapts its be
  ## Log files
 The log files used to generate the results depicted in [1] have been organized in three categories:
 
-* System under Dynamic Context (folders DynamicContext_DC1 to DynamicContext_DC2)
+* Remote Data Mirroring (RDM) Self Adaptive System (SAS) under different Dynamic Context (folders DynamicContext_DC1 to DynamicContext_DC2)
 * Other Service Level Agreements (SLAs) (folder Other SLAs)
-* System Under stable conditions (folder _StableConditions)
+* RDM SAS under stable conditions (folder _StableConditions)
 
-Each folder contains the .json files utilized to generate the plots presented in [1]. Specifically:
+Each folder contains the .json files utilized to generate the plots presented in [1].
 
+## logs for the RDM SAS under different dynamic contexts
 
 * Figure 7 and Figure 8, correspond to the log files:
 
@@ -58,15 +59,29 @@ Each folder contains the .json files utilized to generate the plots presented in
 
 /DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json and
 
-/DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json <br>
+/DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json 
 
 
 
-* Figure 17 and Figure 18, correspond to the log files:
+* Figures 17 and 18, correspond to the log files:
 
 /DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json and 
 
 /DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json
+
+
+## logs for the RDM SAS under other SLAs
+
+* Figures 22, 23 and 24 correspond to the log files:
+
+/OtherSLAs/logi_s100_(0.7_0.80_0.60).json 
+
+/OtherSLAs/logi_s100_(0.8_0.95_0.85).json 
+
+/OtherSLAs/logi_s100_(0.8_0.99_0.85).json 
+
+
+
 
 
 
