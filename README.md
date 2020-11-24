@@ -23,7 +23,7 @@ The log files used to generate the results depicted in [1] have been organized i
 * RDM SAS under other Service Level Agreements (SLAs) (folder OtherSLAs)
 * RDM SAS under stable conditions (folder _StableConditions)
 
-## logs for the RDM SAS under different dynamic contexts
+## Logs for the RDM SAS under different dynamic contexts
 
 * Figures 7 and 8 correspond to the log files:
 
@@ -68,7 +68,7 @@ The log files used to generate the results depicted in [1] have been organized i
 /DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json
 
 
-## logs for the RDM SAS under other SLAs
+## Logs for the RDM SAS under other SLAs
 
 * Figures 22, 23 and 24 correspond to the log files:
 
@@ -77,6 +77,15 @@ The log files used to generate the results depicted in [1] have been organized i
 /OtherSLAs/logi_s100_(0.8_0.95_0.85).json 
 
 /OtherSLAs/logi_s100_(0.8_0.99_0.85).json 
+
+
+## Logs for the RDM SAS under stable conditions
+
+* Figures 5 and 6 correspond to the log file:
+
+/_StableConditions/_logi_sc_s10_NoDNoJ.json 
+
+
 
 
 
