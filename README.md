@@ -39,51 +39,50 @@ Figures 9 and 10, correspond to the log files:
 </ul>
 
 
-* Figures 11 and 13, correspond to the log files:
-
-/DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json
-
-/DynamicContext_DC2/_logi_c2_s10_YesDYesJ.json
-
-
-* Figures 12 and 14, correspond to the log files:
-
-/DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json
-
-/DynamicContext_DC4/_logi_c4_s10_YesDYesJ.json
+Figures 11 and 13, correspond to the log files:
+<ul>
+<li>/DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json</li>
+<li>/DynamicContext_DC2/_logi_c2_s10_YesDYesJ.json</li>
+</ul>
 
 
-* Figures 15 and 16, correspond to the log files:
+Figures 12 and 14, correspond to the log files:
+<ul>
+<li>/DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json</li>
+<li>/DynamicContext_DC4/_logi_c4_s10_YesDYesJ.json</li>
+</ul>
 
-/DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json
+Figures 15 and 16, correspond to the log files:
+<ul>
+<li>/DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json</li>
+<li>/DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json</li>
+</ul>
 
-/DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json 
 
-
-
-* Figures 17 and 18, correspond to the log files:
-
-/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json 
-
-/DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json
+Figures 17 and 18, correspond to the log files:
+<ul>
+<li>/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json </li>
+<li>/DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json</li>
+</ul>
 
 
 ## Logs for the RDM SAS under other SLAs
 
-* Figures 22, 23 and 24 correspond to the log files:
-
-/OtherSLAs/logi_s100_(0.7_0.80_0.60).json 
-
-/OtherSLAs/logi_s100_(0.8_0.95_0.85).json 
-
-/OtherSLAs/logi_s100_(0.8_0.99_0.85).json 
-
+Figures 22, 23 and 24 correspond to the log files:
+<ul>
+<li>/OtherSLAs/logi_s100_(0.7_0.80_0.60).json </li>
+<li>/OtherSLAs/logi_s100_(0.8_0.95_0.85).json</li>
+<li>/OtherSLAs/logi_s100_(0.8_0.99_0.85).json</li> 
+</ul>
+ 
 
 ## Log for the RDM SAS under stable conditions
 
-* Figures 5 and 6 correspond to the log file:
+Figures 5 and 6 correspond to the log file:
+<ul>
+<li>/_StableConditions/_logi_sc_s10_NoDNoJ.json </li>
+</ul>
 
-/_StableConditions/_logi_sc_s10_NoDNoJ.json 
 
 
 
