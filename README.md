@@ -4,6 +4,15 @@
 
 UNDER CONSTRUCTION
 
+The paper results shown have been organized in three categories:
+
+* System under Dynamic Context (folders DynamicContext_DC1 to DynamicContext_DC2)
+* Other Service Level Agreements (SLAs) (folder Other SLAs)
+* System Under stable conditions (folder _StableConditions)
+
+Each folder contains the .json files utilized to generate the plots presented in the paper. 
+
+
 [1] Luis Garcia-Paucar, Nelly Bencomo. Requirements Trade-offs for Self-adaptation using Requirements-aware Runtime Models based on Partially Observable Markov Decision Processes. Paper submitted to http://www.sosym.org/ 
 
 ## Acknowledgements 
