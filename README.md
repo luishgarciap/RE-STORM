@@ -19,8 +19,8 @@ Self-adaptive  and  autonomous  system  (SAS)  is  a  system  that adapts its be
  ## Log files
 The log files used to generate the results depicted in [1] have been organized in three categories:
 
-* Remote Data Mirroring (RDM) Self Adaptive System (SAS) under different Dynamic Context (folders DynamicContext_DC1 to DynamicContext_DC2)
-* Other Service Level Agreements (SLAs) (folder Other SLAs)
+* Remote Data Mirroring (RDM) Self Adaptive System (SAS) under different Dynamic Contexts (folders DynamicContext_DC1 to DynamicContext_DC2)
+* RDM SAS under other Service Level Agreements (SLAs) (folder OtherSLAs)
 * RDM SAS under stable conditions (folder _StableConditions)
 
 Each folder contains the .json files utilized to generate the plots presented in [1].
