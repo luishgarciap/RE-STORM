@@ -23,5 +23,17 @@ The log files used to generate the results depicted in [1] have been organized i
 * Other Service Level Agreements (SLAs) (folder Other SLAs)
 * System Under stable conditions (folder _StableConditions)
 
-Each folder contains the .json files utilized to generate the plots presented in [1]. 
+Each folder contains the .json files utilized to generate the plots presented in [1]. Specifically:
+
+
+* Figures 7 and 8, corresponds to log files:
+/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json and
+/DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json
+
+* Figures 7 and 8, corresponds to log files:
+/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json and
+/DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json
+
+
+
 
