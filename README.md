@@ -63,9 +63,7 @@ Each folder contains the .json files utilized to generate the plots presented in
 
 * Figure 17 and Figure 18, correspond to the log files:
 
-/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json and
-
-/DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json
+/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json and /DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json
 
 
 
